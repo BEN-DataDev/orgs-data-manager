@@ -1,0 +1,716 @@
+[
+  {
+    "suburb": "ADJUNGBILLY",
+    "state": "NSW",
+    "postcode": "2727",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "ANGLERS REACH",
+    "state": "NSW",
+    "postcode": "2629",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "ARGALONG",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BANGADANG",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BIMBERI",
+    "state": "NSW",
+    "postcode": "2611",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BLACK CREEK",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BLOWERING",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BLUE COW",
+    "state": "NSW",
+    "postcode": "2624",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BOGONG PEAKS WILDERNESS",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BOMBOWLEE",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BOMBOWLEE CREEK",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BRAEMAR BAY",
+    "state": "NSW",
+    "postcode": "2628",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BRINDABELLA",
+    "state": "NSW",
+    "postcode": "2611",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BRINGENBRONG",
+    "state": "NSW",
+    "postcode": "3707",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BROKEN DAM",
+    "state": "NSW",
+    "postcode": "2629",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BRUNGLE",
+    "state": "NSW",
+    "postcode": "2722",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BRUNGLE CREEK",
+    "state": "NSW",
+    "postcode": "2722",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BUDDONG",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BURRA",
+    "state": "NSW",
+    "postcode": "2653",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "BURRUNGUBUGGE",
+    "state": "NSW",
+    "postcode": "2627",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "CABRAMURRA",
+    "state": "NSW",
+    "postcode": "2629",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "CALIFAT",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "CARABOST",
+    "state": "NSW",
+    "postcode": "2650",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "CHARLOTTE PASS",
+    "state": "NSW",
+    "postcode": "2624",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "COOLEMAN",
+    "state": "NSW",
+    "postcode": "2611",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "COOLEYS CREEK",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "COPPABELLA",
+    "state": "NSW",
+    "postcode": "2644",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "COURABYRA",
+    "state": "NSW",
+    "postcode": "2653",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "COURAGAGO",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "DARBALARA",
+    "state": "NSW",
+    "postcode": "2722",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "DARLOW",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "ELLERSLIE",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "EUCUMBENE",
+    "state": "NSW",
+    "postcode": "2628",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "GADARA",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "GEEHI",
+    "state": "NSW",
+    "postcode": "2642",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "GILMORE",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "GOBARRALONG",
+    "state": "NSW",
+    "postcode": "2727",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "GOCUP",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "GOOANDRA",
+    "state": "NSW",
+    "postcode": "2629",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "GOOBARRAGANDRA",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "GRAHAMSTOWN",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "GREEN HILLS",
+    "state": "NSW",
+    "postcode": "2730",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "GREG GREG",
+    "state": "NSW",
+    "postcode": "2642",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "GROSSES PLAIN",
+    "state": "NSW",
+    "postcode": "2627",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "GUTHEGA",
+    "state": "NSW",
+    "postcode": "2624",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "HUMULA",
+    "state": "NSW",
+    "postcode": "2652",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "INDI",
+    "state": "NSW",
+    "postcode": "2642",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "INGEBIRAH",
+    "state": "NSW",
+    "postcode": "2627",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "INGEEGOODBEE",
+    "state": "NSW",
+    "postcode": "2627",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "JACOBS RIVER",
+    "state": "NSW",
+    "postcode": "2627",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "JAGUMBA",
+    "state": "NSW",
+    "postcode": "2642",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "JAGUNGAL WILDERNESS",
+    "state": "NSW",
+    "postcode": "2642",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "JINGELLIC",
+    "state": "NSW",
+    "postcode": "2642",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "JONES BRIDGE",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "KHANCOBAN",
+    "state": "NSW",
+    "postcode": "2642",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "KILLIMICAT",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "KOSCIUSZKO",
+    "state": "NSW",
+    "postcode": "2627",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "KUNAMA",
+    "state": "NSW",
+    "postcode": "2730",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "LACMALAC",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "LANKEYS CREEK",
+    "state": "NSW",
+    "postcode": "2644",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "LAUREL HILL",
+    "state": "NSW",
+    "postcode": "2649",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "LITTLE RIVER",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "LONG PLAIN",
+    "state": "NSW",
+    "postcode": "2629",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "LOWER BAGO",
+    "state": "NSW",
+    "postcode": "2730",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "MANNUS",
+    "state": "NSW",
+    "postcode": "2653",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "MARAGLE",
+    "state": "NSW",
+    "postcode": "2653",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "MINJARY",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "MOUNT ADRAH",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "MOUNT HOREB",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "MUNDARLO",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "MUNDEROO",
+    "state": "NSW",
+    "postcode": "2653",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "MUNDONGO",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "MUNYANG",
+    "state": "NSW",
+    "postcode": "2624",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "MURRAY GORGE",
+    "state": "NSW",
+    "postcode": "2642",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "NGARIGO",
+    "state": "NSW",
+    "postcode": "2627",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "NIMMO",
+    "state": "NSW",
+    "postcode": "2628",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "NUNGAR",
+    "state": "NSW",
+    "postcode": "2629",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "NURENMERENMONG",
+    "state": "NSW",
+    "postcode": "2649",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "OLD ADAMINABY",
+    "state": "NSW",
+    "postcode": "2629",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "OURNIE",
+    "state": "NSW",
+    "postcode": "2640",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "PADDYS RIVER",
+    "state": "NSW",
+    "postcode": "2653",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "PILOT WILDERNESS",
+    "state": "NSW",
+    "postcode": "2627",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "PINBEYAN",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "PROVIDENCE PORTAL",
+    "state": "NSW",
+    "postcode": "2629",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "RED HILL",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "ROSEWOOD",
+    "state": "NSW",
+    "postcode": "2652",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "SANDY GULLY",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "SHARPS CREEK",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "SMIGGIN HOLES",
+    "state": "NSW",
+    "postcode": "2624",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "SNOWY PLAIN",
+    "state": "NSW",
+    "postcode": "2628",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "SOUTH GUNDAGAI",
+    "state": "NSW",
+    "postcode": "2722",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "TALMALMO",
+    "state": "NSW",
+    "postcode": "2640",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "TANTANGARA",
+    "state": "NSW",
+    "postcode": "2629",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "TARADALE",
+    "state": "NSW",
+    "postcode": "2653",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "TARCUTTA",
+    "state": "NSW",
+    "postcode": "2652",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "TOLBAR",
+    "state": "NSW",
+    "postcode": "2629",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "TOOMA",
+    "state": "NSW",
+    "postcode": "2642",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "TUMBLONG",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "TUMORRAMA",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "TUMUT PLAINS",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "URIARRA",
+    "state": "NSW",
+    "postcode": "2611",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "WELAREGANG",
+    "state": "NSW",
+    "postcode": "2642",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "WEREBOLDERA",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "WERMATONG",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "WESTDALE",
+    "state": "NSW",
+    "postcode": "2653",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "WESTWOOD",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "WILLIGOBUNG",
+    "state": "NSW",
+    "postcode": "2653",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "WILSONS VALLEY",
+    "state": "NSW",
+    "postcode": "2624",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "WINDOWIE",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "WONDALGA",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "WYANGLE",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "YAOUK",
+    "state": "NSW",
+    "postcode": "2629",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "YARRANGOBILLY",
+    "state": "NSW",
+    "postcode": "2720",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "YAVEN CREEK",
+    "state": "NSW",
+    "postcode": "2729",
+    "source": "acnc register"
+  },
+  {
+    "suburb": "",
+    "state": "NSW",
+    "postcode": "2727",
+    "source": "abn register"
+  },
+  {
+    "suburb": "",
+    "state": "NSW",
+    "postcode": "2611",
+    "source": "abn register"
+  },
+  {
+    "suburb": "",
+    "state": "NSW",
+    "postcode": "2624",
+    "source": "abn register"
+  },
+  {
+    "suburb": "",
+    "state": "NSW",
+    "postcode": "3707",
+    "source": "abn register"
+  },
+  {
+    "suburb": "",
+    "state": "NSW",
+    "postcode": "2649",
+    "source": "abn register"
+  }
+]
